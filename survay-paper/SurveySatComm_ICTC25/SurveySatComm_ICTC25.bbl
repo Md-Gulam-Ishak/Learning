@@ -1,0 +1,66 @@
+\begin{thebibliography}{10}
+
+\bibitem{OKodheli:20}
+O.~Kodheli, E.~Lagunas, N.~Maturo, and S.~K. Sharma, ``{Satellite Communications in the New Space Era: A Survey and Future Challenges},'' {\em IEEE Communications Surveys and Tutorials}, vol.~23, pp.~70 -- 109, 2021.
+
+\bibitem{PDevi:25}
+P.~Devi, M.~R. Bharti, and D.~Gautam, ``{A Survey on Physical Layer Security for 5G/6G Communications over Different Fading Channels: Approaches, Challenges, and Future Directions},'' {\em Vehicular Communications}, vol.~53, June 2025.
+
+\bibitem{SGoel:08}
+S.~Goel and R.~Negi, ``{Guaranteeing Secrecy using Artificial Noise},'' {\em IEEE Transactions on Wireless Communications}, vol.~7, pp.~2180--2189, June 2008.
+
+\bibitem{SHasan:24}
+M.~S. Hasan and J.~Moon, ``{Detection Error Probability Maximization for Relay-Based Covert Communications},'' {\em The Journal of Korean Institute of Communications and Information Sciences}, 2024.
+
+\bibitem{Chen:23}
+X.~Chen, J.~An, Z.~Xiong, C.~Xing, N.Zhao, F.~R. Yu, and A.~Nallanathan, ``{Covert communications: A comprehensive survey},'' {\em IEEE Communications Surveys and Tutorials}, vol.~25, no.~2, April 2023.
+
+\bibitem{YHe:25}
+Y.~He, P.~Yang, Y.~Man, C.~Wang, and C.~Qi, ``{ Spatial Ultra-Sparse Array Formation on LEO Distributed Satellite Cluster: An Enhanced Hybrid Particle Swarm Method},'' {\em IEEE Journal of Selected Topics in Signal Processing}, vol.~19, no.~5, pp.~447 -- 460, March 2025.
+
+\bibitem{YLee:25}
+Y.~Lee, T.~Kim, and I.~Bang, ``{Secrecy Outage Probability of Secure Transmission with Artificial Noise in Low Earth Orbit Satellite Networks},'' {\em Proc. ICC 2025 - IEEE International Conference on Communications, Montreal, Canada}, pp.~1--6, 8--12 June 2025.
+
+\bibitem{YHe:24}
+Y.~He, C.~Wang, C.~Qi, and Z.~Feng, ``{Spatial Ultra-Sparse Distributed Antenna Satellite-Ground Cooperative Transmission Architecture: Challenges, Key Technologies, and Trends},'' {\em IEEE Commun. Mag.}, vol.~62, no.~9, pp.~136--143, September 2024.
+
+\bibitem{SPark:21}
+S.~Park, D.~Kim, Y.~Park, H.~Cho, D.~Kim, and S.~Kwon, ``{5G Security Threat Assessment in Real Networks},'' {\em Communications Security in Wireless and Mobile Networks}, August 2021.
+
+\bibitem{PScalise:24}
+P.~Scalise, M.~Boeding, M.~Hempel, H.~Sharif, and J.~Reed, ``{A Systematic Survey on 5G and 6G Security Considerations, Challenges, Trends, and Research Areas},'' {\em 5G Security: Challenges, Opportunities, and the Road Ahead}, February 2024.
+
+\bibitem{ASanenga:20}
+A.~Sanenga, G.~A. Mapunda, T.~M.~L. Jacob, L.~Marata, B.~Basutli, and J.~M. Chuma, ``{An Overview of Key Technologies in Physical Layer Security},'' {\em Entropy Reviews}, November 2020.
+
+\bibitem{BLi:20}
+B.~Li, Z.~Fei, C.~Zhou, and Y.~Zhang, ``{Physical-Layer Security in Space Information Networks: A Survey},'' {\em IEEE Internet of Things Journal}, vol.~7, pp.~33--52, January 2020.
+
+\bibitem{Talgat:24}
+A.~Talgat, R.~Wang, M.~A. Kishk, and M.~S. Alouini, ``{Enhancing Pysical Layer Security inn LEO Satellite-Enabled IoT Network Communications},'' {\em IEEE Internet of Things Journal}, vol.~11, pp.~33967 -- 33979, October 2024.
+
+\bibitem{DNa:25}
+D.~Na, K.~H. Park, Y.~C. Ko, and M.~S. Alouini, ``{Physical Layer Security for LEO Satellite Communication Systems with Friendly Jamming Satellite},'' {\em IEEE Transactions on Wireless Communications}, pp.~1--1, May 2025.
+
+\bibitem{MHuang:24}
+M.~Huang, G.~Li, F.~Gong, Z.~Yin, X.~Li, A.~Nallanathan, and Z.~Ding, ``{Robust Secure Precoding for UAV-Aided multi-beam Satellite NOMA Communications},'' {\em EEE Transactions on Vehicular Technology}, vol.~73, pp.~8069 -- 8082, June 2024.
+
+\bibitem{IBang:18}
+I.~Bang, S.~M. Kim, and D.~K. Sung, ``{Artificial Noise-Aided User Scheduling from the Perspective of Secrecy Outage Probability},'' {\em EEE Transactions on Vehicular Technology}, vol.~67, no.~8, pp.~7816 -- 7820, JAugust 2018.
+
+\bibitem{You:20}
+L.~You, K.-X. Li, J.~W.~X. Gao, X.-G. Xia, and B.~Ottersten, ``{ Massive MIMO transmission for LEO satellite communications },'' {\em IEEE J. Sel. Areas Commun.}, vol.~38, no.~8, pp.~1851--1865, 2020.
+
+\bibitem{Kodheli:20}
+O.~Kodheli, E.~Lagunas, N.~Maturo, S.~K. Sharma, B.~Shankar, J.~F.~M. Montoya, J.~C.~M. Duncan, D.~Spano, S.~Chatzinotas, and S.~K. et~al., ``{ Satellite communications in the new space era: A survey and future challenges},'' {\em IEEE Commun. Surv. Tutorials}, vol.~23, no.~1, pp.~70--109, 2020.
+
+\bibitem{Heo:23}
+J.~Heo, S.~Sung, H.~Lee, I.~Hwang, and D.~Hong, ``{ MIMO satellite communication systems: A survey from the PHY layer perspective},'' {\em IEEE Commun. Surv. Tutorials}, vol.~25, pp.~1543 -- 1570, July 2023.
+
+\bibitem{Li:07}
+J.~Li and P.~Stoica, ``{ MIMO radar with colocated antennas},'' {\em IEEE Signal Process Mag.}, vol.~24, no.~5, pp.~106--114, 2007.
+
+\bibitem{Li:07_1}
+J.~Li and P.~Stoica, ``{ MIMO radar with colocated antennas},'' {\em IEEE Signal Process Mag.}, vol.~24, no.~5, pp.~106--114, 2007.
+
+\end{thebibliography}

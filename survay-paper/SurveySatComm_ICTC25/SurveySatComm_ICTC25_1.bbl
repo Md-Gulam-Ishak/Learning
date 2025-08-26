@@ -1,0 +1,33 @@
+\begin{thebibliography}{10}
+
+\bibitem{YLee:25}
+Y.~Lee, T.~Kim, and I.~Bang, ``{Secrecy Outage Probability of Secure Transmission with Artificial Noise in Low Earth Orbit Satellite Networks},'' {\em Proc. ICC 2025 - IEEE International Conference on Communications, Montreal, Canada}, pp.~1--6, 8--12 June 2025.
+
+\bibitem{YHe:24}
+Y.~He, C.~Wang, C.~Qi, and Z.~Feng, ``{Spatial Ultra-Sparse Distributed Antenna Satellite-Ground Cooperative Transmission Architecture: Challenges, Key Technologies, and Trends},'' {\em IEEE Commun. Mag.}, vol.~62, no.~9, pp.~136--143, September 2024.
+
+\bibitem{Larsso:14}
+E.~G. Larsson, O.~Edfors, F.~Tufvesson, and T.~L. Marzetta, ``{ Massive MIMO for next generation wireless systems },'' {\em IEEE Commun. Mag.}, vol.~52, no.~2, pp.~186--195, 2014.
+
+\bibitem{Perahia:13}
+E.~Perahia and R.~Stacey, ``{ Next generation wireless LANs: 802.11 n and 802.11 ac. },'' {\em Cambridge university press}, 2013.
+
+\bibitem{Khorov:18}
+E.~Khorov, A.~Kiryanov, A.~Lyakhov, and G.~Bianchi, ``{ A tutorial on IEEE 802.11 ax high efficiency WLANs },'' {\em IEEE Commun. Surv. Tutorials}, vol.~21, no.~1, pp.~197--216, 2018.
+
+\bibitem{You:20}
+L.~You, K.-X. Li, J.~W.~X. Gao, X.-G. Xia, and B.~Ottersten, ``{ Massive MIMO transmission for LEO satellite communications },'' {\em IEEE J. Sel. Areas Commun.}, vol.~38, no.~8, pp.~1851--1865, 2020.
+
+\bibitem{Kodheli:20}
+O.~Kodheli, E.~Lagunas, N.~Maturo, S.~K. Sharma, B.~Shankar, J.~F.~M. Montoya, J.~C.~M. Duncan, D.~Spano, S.~Chatzinotas, and S.~K. et~al., ``{ Satellite communications in the new space era: A survey and future challenges},'' {\em IEEE Commun. Surv. Tutorials}, vol.~23, no.~1, pp.~70--109, 2020.
+
+\bibitem{Heo:23}
+J.~Heo, S.~Sung, H.~Lee, I.~Hwang, and D.~Hong, ``{ MIMO satellite communication systems: A survey from the PHY layer perspective},'' {\em IEEE Commun. Surv. Tutorials}, vol.~25, pp.~1543 -- 1570, July 2023.
+
+\bibitem{Li:07}
+J.~Li and P.~Stoica, ``{ MIMO radar with colocated antennas},'' {\em IEEE Signal Process Mag.}, vol.~24, no.~5, pp.~106--114, 2007.
+
+\bibitem{Li:07_1}
+J.~Li and P.~Stoica, ``{ MIMO radar with colocated antennas},'' {\em IEEE Signal Process Mag.}, vol.~24, no.~5, pp.~106--114, 2007.
+
+\end{thebibliography}
